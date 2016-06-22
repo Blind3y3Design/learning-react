@@ -1,0 +1,96 @@
+/**
+* Layout styles
+*/
+
+.portfolio_item {
+	left: right;
+    margin: 0 0 20px 0;
+    padding:20px 20px 0 20px;
+    box-shadow:1px 2px 2px #eaeaea;
+    border:1px solid #eaeaea;
+}
+
+.portfolio_item h2 {
+    font-size: 24px;
+    margin: 20px 0 20px 0;
+    text-align: right;
+    padding-top: 250px;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+.portfolio_item h2 a {
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.portfolio_item .role_wrapper {
+    border-bottom: 1px dotted #ccc;
+    position: relative;
+    margin-bottom:20px;
+}
+
+.portfolio_item .role {
+    float: left;
+    color: #30add4;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform:uppercase;
+    margin: 16px 10px 10px 10px;
+    opacity:0.5;
+}
+
+.portfolio_item .role_title {
+    float: right;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px;
+    color: #30add4;
+    line-height: 24px;
+    text-align: right;
+}
+
+.portfolio_item span.role_skills {
+    font-size: 18px;
+    color: #a6a6a6;
+}
+
+/**
+* Individual
+*/
+
+.amex {
+	background:#fff url('assets/amex.jpg') top no-repeat;
+    background-size: contain;
+}
+
+.craftsman {
+	background:#fff url('assets/craftsman.jpg') top no-repeat;
+    background-size: contain;
+}
+
+.kenmore {
+	background:#fff url('assets/kenmore.jpg') top no-repeat;
+    background-size: contain;
+}
+
+.mls {
+	background:#fff url('assets/mls.jpg') top no-repeat;
+    background-size: contain;
+}
+
+.owo {
+	background:#fff url('assets/owo.jpg') top no-repeat;
+    background-size: contain;
+}
+
+.qualcomm {
+	background:#fff url('assets/qualcomm.jpg') top no-repeat;
+    background-size: contain;
+}
+
+.td-bank {
+	background:#fff url('assets/td-bank.jpg') top no-repeat;
+    background-size: contain;
+}
