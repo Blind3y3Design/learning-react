@@ -1,45 +1,11 @@
-# Portfolio Redux App
+# Learning React with a portfolio
 
-A Portfolio example of an isomorphic rendering application in React and Redux. [Live Example Here](http://www.callumrimmer.co.uk)
+I came across [caljrimmer's](https://github.com/caljrimmer) "Portfolio Redux App" and thought it would be a fun project to work on while getting to understand how react and redux worked a little bit more. It was also a good excersize because my actual portfolio site could use some love. I was able to learn some of the ins and outs of working with react while also hammering otu some details on how I wanted to update my own site.
 
-<img src="http://g.recordit.co/cO0pqgO8Fo.gif" width="728" />
-
-## Development Installation
-
-In the project's directory, run the following commands:
-
-```
-$ npm install
-$ npm start
-```
-
-Then Visit
-
-```
-http://localhost:3002
-```
-
-## Releasing to Production
-
-Production has Devtools, logging and hot reloading middleware removed and the scripts/css compressed. 
-
-In the project's directory, run the following commands:
-
-```
-$ npm run build
-$ npm run start-prod
-```
-
-Then Visit
-
-```
-http://localhost:3002
-```
-
-## Other Boilerplate code
-
-[General Redux App (with Undo)](https://github.com/caljrimmer/isomorphic-redux-app)
 
 ## Credit
+
+### Portfolio Redux App
+A Portfolio example of an isomorphic rendering application in React and Redux. [Live Example Here](http://www.callumrimmer.co.uk) by [caljrimmer](https://github.com/caljrimmer)
 
 App template was based on [Lanyon Theme](https://github.com/poole/lanyon) by [mdo](https://github.com/mdo)
